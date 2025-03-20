@@ -1,0 +1,32 @@
+.heading {
+      padding: 60px;
+      font-size: 25px;
+      text-align: center;
+      background: blue;
+            }
+           
+ 
+.section {
+       background-color: pink;
+       padding: 20px;
+       margin-top: 30px;
+            }
+
+.book {
+       background-color: green;
+       padding: 20px;
+       margin-top: 30px;
+            }
+/*this is was made by chatgpt */
+.school {     
+      border: 3px solid purple;
+}
+
+.piano {
+      border: 3px solid black;
+}
+
+.ivan {
+      border:3px solid blue;
+}
+
